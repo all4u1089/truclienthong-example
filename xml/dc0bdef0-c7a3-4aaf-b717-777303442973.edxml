@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edXML xmlns="http://www.mic.gov.vn/TBT/QCVN_102_2016">
+  <edXML:edXMLEnvelope xmlns:edXML="http://www.mic.gov.vn/TBT/QCVN_102_2016">
+    <edXML:edXMLHeader>
+      <edXML:MessageHeader>
+        <edXML:From>
+          <edXML:OrganId>000.00.00.G22</edXML:OrganId>
+          <edXML:OrganizationInCharge>Văn phòng Chính phủ</edXML:OrganizationInCharge>
+          <edXML:OrganName>Văn phòng Chính phủ</edXML:OrganName>
+          <edXML:OrganAdd>Số 1 Hoàng Hoa Thám, Quận Ba Đình, Hà Nội</edXML:OrganAdd>
+          <edXML:Email>vpcp@gov.vn</edXML:Email>
+          <edXML:Telephone>8043100</edXML:Telephone>
+          <edXML:Fax>048989898789</edXML:Fax>
+          <edXML:Website>vpcp.vn</edXML:Website>
+        </edXML:From>
+        <edXML:To>
+          <edXML:OrganId>000.00.00.H41</edXML:OrganId>
+          <edXML:OrganizationInCharge>UBND Tỉnh Nghệ An</edXML:OrganizationInCharge>
+          <edXML:OrganName>UBND Tỉnh Nghệ An</edXML:OrganName>
+          <edXML:OrganAdd>Số 03, đường Trường Thi, Thành phố Vinh, Tỉnh Nghệ An, Việt Nam</edXML:OrganAdd>
+          <edXML:Email>nghean@gov.vn</edXML:Email>
+          <edXML:Telephone>0383 840418</edXML:Telephone>
+          <edXML:Fax>0383 843049</edXML:Fax>
+          <edXML:Website>www.nghean.vn</edXML:Website>
+        </edXML:To>
+        <edXML:To>
+          <edXML:OrganId>000.00.00.H14</edXML:OrganId>
+          <edXML:OrganizationInCharge>UBND Tỉnh Cao Bằng</edXML:OrganizationInCharge>
+          <edXML:OrganName>UBND Tỉnh Cao Bằng</edXML:OrganName>
+          <edXML:OrganAdd>Số 011 - Đường Hoàng Đình Giong - Thành Phố Cao Bằng, Tỉnh Cao Bằng</edXML:OrganAdd>
+          <edXML:Email>caobang@gov.vn</edXML:Email>
+          <edXML:Telephone>02063852139</edXML:Telephone>
+          <edXML:Fax>0202183239</edXML:Fax>
+          <edXML:Website>www.caobang.gov.vn</edXML:Website>
+        </edXML:To>
+        <edXML:To>
+          <edXML:OrganId>000.00.00.G17</edXML:OrganId>
+          <edXML:OrganizationInCharge>Sở Thông tin truyền thông Hải Phòng</edXML:OrganizationInCharge>
+          <edXML:OrganName>Sở Thông tin truyền thông Hải Phòng</edXML:OrganName>
+          <edXML:OrganAdd>số 62 - Võ Thị Sáu - Ngô Quyền - Hải Phòng</edXML:OrganAdd>
+          <edXML:Email>bxd@moc.gov.vn</edXML:Email>
+          <edXML:Telephone>(84-4) 3821 5137</edXML:Telephone>
+          <edXML:Fax>(023)37366617</edXML:Fax>
+          <edXML:Website>www.haiphong.gov.vn</edXML:Website>
+        </edXML:To>
+        <edXML:DocumentId>000.00.00.G22,2015/09/30,7816/VPCP-TTĐT</edXML:DocumentId>
+        <edXML:Code>
+          <edXML:CodeNumber>7816</edXML:CodeNumber>
+          <edXML:CodeNotation>VPCP-TTĐT</edXML:CodeNotation>
+        </edXML:Code>
+        <edXML:PromulgationInfo>
+          <edXML:Place>Hà Nội</edXML:Place>
+          <edXML:PromulgationDate>2019/04/11</edXML:PromulgationDate>
+        </edXML:PromulgationInfo>
+        <edXML:DocumentType>
+          <edXML:Type>1</edXML:Type>
+          <edXML:TypeDetail>0</edXML:TypeDetail>
+          <edXML:TypeName>Công văn</edXML:TypeName>
+        </edXML:DocumentType>
+        <edXML:Subject>V/v kết nối, liên thông phần mềm quản lý văn bản</edXML:Subject>
+        <edXML:Content>V/v kết nối, liên thông phần mềm quản lý văn bản</edXML:Content>
+        <edXML:SignerInfo>
+          <edXML:Competence>TL. BO TRUONG</edXML:Competence>
+          <edXML:Position>Cuc truong cuc ung dung cong nghe thong tin</edXML:Position>
+          <edXML:FullName>Nguyen Thanh Phuc</edXML:FullName>
+        </edXML:SignerInfo>
+        <edXML:DueDate>2019/04/11</edXML:DueDate>
+        <edXML:OtherInfo>
+          <edXML:Priority>0</edXML:Priority>
+          <edXML:SphereOfPromulgation>Liên thông văn bản quốc gia</edXML:SphereOfPromulgation>
+          <edXML:TyperNotation>TVC</edXML:TyperNotation>
+          <edXML:PromulgationAmount>2</edXML:PromulgationAmount>
+          <edXML:PageAmount>22</edXML:PageAmount>
+          <edXML:Direction>false</edXML:Direction>
+          <edXML:Appendixes>
+            <edXML:Appendix>Công văn về việc kết nối, liên thông phần mềm quản lý văn bản</edXML:Appendix>
+          </edXML:Appendixes>
+        </edXML:OtherInfo>
+        <edXML:SteeringType>1</edXML:SteeringType>
+        <edXML:ToPlaces>
+          <edXML:Place>Cac bo va co quan ngang bo</edXML:Place>
+          <edXML:Place>Uy ban nhan dan cac tinh, TP</edXML:Place>
+        </edXML:ToPlaces>
+      </edXML:MessageHeader>
+      <edXML:TraceHeaderList>
+        <edXML:Bussiness>
+          <edXML:DocumentId>000.00.00.G22,2014/02/30,7806/VPCP-TTĐT</edXML:DocumentId>
+          <edXML:BussinessDocType>0</edXML:BussinessDocType>
+          <edXML:BussinessDocReason>Văn bản điện tử mới</edXML:BussinessDocReason>
+          <edXML:Paper>0</edXML:Paper>
+          <edXML:StaffInfo>
+            <edXML:Department>Văn thư văn phòng</edXML:Department>
+            <edXML:Staff>Nguyễn Thị Ngọc Trâm</edXML:Staff>
+            <edXML:Email>vanthuvanphong@gov.vn</edXML:Email>
+            <edXML:Mobile>84912000001</edXML:Mobile>
+          </edXML:StaffInfo>
+        </edXML:Bussiness>
+        <edXML:TraceHeader>
+          <edXML:OrganId>000.00.00.G22</edXML:OrganId>
+          <edXML:Timestamp>2019/04/11 00:00:00</edXML:Timestamp>
+        </edXML:TraceHeader>
+      </edXML:TraceHeaderList>
+      <Signature>
+        <SignedInfo>
+          <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+          <Reference URI="">
+            <Transforms>
+              <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+              <Transform Algorithm="http://www.w3.org/TR/xml-exc-c14n#" />
+            </Transforms>
+            <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+            <DigestValue>FwgIqsSYJshUS2+wlOM61L+q7Aw=</DigestValue>
+          </Reference>
+        </SignedInfo>
+        <SignatureValue>GbVb8n9+qFxz466Ag0sbpVdLPs2R0+9JBekp12UyarAZjoG0W/kPZZJ1auRZDcNcrSwzgkQMpqrjwxcy3ejzbY/ON5USUPgoYNYM8p4wsgQpEAeQaZ+EWLkkEBxYjb+iWEiAjYuJI7gtJoOyENcOK4fO050SXp2ctOc32LJMA5eEI6Hw7sxhc2LAgcPiynJHdDW2Z+eut6QZiUsbIF9+S3T6u/tfLImw39dgSlCxupwLPHepxuiLOqyd08HeJGCZufg9WqRBVyLFM76uCIaPRP5wwAdx72GVjPcG2kh+2jjrt7fqtJOufJzCObtQgPgBqIvDiZCGoOM41OQMiqtF3w==</SignatureValue>
+        <KeyInfo>
+          <X509Data>
+            <X509SubjectName>CN=user05</X509SubjectName>
+            <X509Certificate>MIIFqTCCBJG</X509Certificate>
+          </X509Data>
+        </KeyInfo>
+      </Signature>
+    </edXML:edXMLHeader>
+    <edXML:edXMLBody>
+      <edXML:edXMLManifest version="1.0">
+        <edXML:Reference>
+          <edXML:ContentId>cid:209</edXML:ContentId>
+          <edXML:ContentType>application/zip</edXML:ContentType>
+          <edXML:Description>1896_QD-TTg_m_294779.doc</edXML:Description>
+          <edXML:AttachmentName>1896_QD-TTg_m_294779.doc</edXML:AttachmentName>
+        </edXML:Reference>
+      </edXML:edXMLManifest>
+    </edXML:edXMLBody>
+  </edXML:edXMLEnvelope>
+  <AttachmentEncoded>
+    <Attachment>
+      <ContentId>cid:209</ContentId>
+      <AttachmentName>1896_QD-TTg_m_294779.doc</AttachmentName>
+      <Description>1896_QD-TTg_m_294779.doc</Description>
+      <ContentType>application/zip</ContentType>
+      <edXML:ContentTransferEncoded xmlns:edXML="http://www.mic.gov.vn/TBT/QCVN_102_2016">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</edXML:ContentTransferEncoded>
+    </Attachment>
+  </AttachmentEncoded>
+</edXML>
